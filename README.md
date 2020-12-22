@@ -27,25 +27,29 @@
 - Align-content: space-between
 - Align-content: space-around
 
-*display:flex
-antes => justify-content: ...
-flex-start: Items align to the left side of the container.
-flex-end: Items align to the right side of the container.
-center: Items align at the center of the container.
-space-between: Items display with equal spacing between them.
-space-around: Items display with equal spacing around them.
+#### Descrição de Cada Um
+*não esquecer de acrescentar "display:flex" no css do elemento* 
+#### antes => justify-content: ...
+##### flex-start: Items align to the left side of the container.
+##### flex-end: Items align to the right side of the container.
+##### center: Items align at the center of the container.
+##### space-between: Items display with equal spacing between them.
+##### space-around: Items display with equal spacing around them.
 
-*display:flex
-antes => align-items: ...
-flex-start: Items align to the top of the container.
-flex-end: Items align to the bottom of the container.
-center: Items align at the vertical center of the container.
-baseline: Items display at the baseline of the container.
-stretch: Items are stretched to fit the container.
+*não esquecer de acrescentar "display:flex" no css do elemento*
+#### antes => align-items: ...
+##### flex-start: Items align to the top of the container.
+##### flex-end: Items align to the bottom of the container.
+##### center: Items align at the vertical center of the container.
+##### baseline: Items display at the baseline of the container.
+##### stretch: Items are stretched to fit the container.
 
-*display:flex
-antes => flex-direction: ...
-row: Items are placed the same as the text direction.
-row-reverse: Items are placed opposite to the text direction.
-column: Items are placed top to bottom.
-column-reverse: Items are placed bottom to top.
+*não esquecer de acrescentar "display:flex" no css do elemento*
+#### antes => flex-direction: ...
+##### row: Items are placed the same as the text direction.
+##### row-reverse: Items are placed opposite to the text direction.
+##### column: Items are placed top to bottom.
+##### column-reverse: Items are placed bottom to top.
+
+## Site que auxilia neste aprendizado => 
+https://flexboxfroggy.com/
