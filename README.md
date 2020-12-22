@@ -1,7 +1,7 @@
 # FlexBox - Definitions
-###FlexBox => Baseado num estudo sobre FlexBox, onde tento agrupar algumas informações que irão me auxiliar em futuros projetos.
+### FlexBox => Baseado num estudo sobre FlexBox, onde tento agrupar algumas informações que irão me auxiliar em futuros projetos.
 
-###FLEX-BOX : TAMANHO DA PÁGINA DESCONHECIDO OU DINÂMICO
+### FLEX-BOX : TAMANHO DA PÁGINA DESCONHECIDO OU DINÂMICO
 
 -Display : flex //criar um conteiner flexível a nível de bloco
 -Display: inline-flex //faz o mesmo mas em linha
